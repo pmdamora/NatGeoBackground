@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"pmdamora.natgeobackground","l":"Gallery"},{"p":"pmdamora.natgeobackground","l":"Item"},{"p":"pmdamora.natgeobackground","l":"Main"}]
