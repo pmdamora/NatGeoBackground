@@ -8,6 +8,9 @@ After downloading the program, the `.jar` can be added to the project directory 
 
 *For now the application is only compatible with OS X.*
 
+### Documentation
+View the generated javadocs here: https://pmdamora.github.io/NatGeoBackground/
+
 ### License
 NatGeoBackground is released under the [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 ```
